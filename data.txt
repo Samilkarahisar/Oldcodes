@@ -1,0 +1,55 @@
+subj: nbot
+Yeni 1 kalıp öğrendim: -subj
+subj: nbot
+Yeni 1 kalıp öğrendim: -subj
+subj: nbot
+subj: you
+Yeni 1 kalıp öğrendim: -subj-subj
+subj: nbot
+Yeni 1 kalıp öğrendim: -subj
+subj: he
+Yeni 1 kalıp öğrendim: -subj
+subj: he
+Yeni 1 kalıp öğrendim: -subj
+subj: ben
+verb: gidiyorum
+Yeni 1 kalıp öğrendim: -subj-verb
+subj: you
+Yeni 1 kalıp öğrendim: -subj
+subj: you
+Yeni 1 kalıp öğrendim: -subj
+subj: nbot
+Yeni 1 kalıp öğrendim: -subj
+subj: nbot
+Yeni 1 kalıp öğrendim: -subj
+subj: nbot
+subj: you
+Yeni 1 kalıp öğrendim: -subj-subj
+subj: nbot
+Yeni 1 kalıp öğrendim: -subj
+subj: he
+Yeni 1 kalıp öğrendim: -subj
+subj: nbot
+Yeni 1 kalıp öğrendim: -subj
+subj: nbot
+subj: you
+Yeni 1 kalıp öğrendim: -subj-subj
+subj: nbot
+Yeni 1 kalıp öğrendim: -subj
+subj: nbot
+Yeni 1 kalıp öğrendim: -subj
+subj: nbot
+Yeni 1 kalıp öğrendim: -subj
+subj: nbot
+Yeni 1 kalıp öğrendim: -subj
+subj: you
+subj: nbot
+Yeni 1 kalıp öğrendim: -subj-subj
+subj: nbot
+Yeni 1 kalıp öğrendim: -subj
+subj: nbot
+Yeni 1 kalıp öğrendim: -subj
+subj: nbot
+Yeni 1 kalıp öğrendim: -subj
+subj: nbot
+Yeni 1 kalıp öğrendim: -subj
